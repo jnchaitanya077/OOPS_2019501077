@@ -1,3 +1,0 @@
-class CertificateOfDeposit extends BankAccount {
-
-}
